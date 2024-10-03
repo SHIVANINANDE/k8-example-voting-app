@@ -17,6 +17,8 @@ This project utilizes AgroCD to seamlessly pull code from GitHub repositories an
 ![diagram-export-10-3-2024-9_53_15-AM](https://github.com/user-attachments/assets/93e5fef2-2bc8-4711-8404-bf0f7b2c1526)
 
 ##Process Visuals
+
+
 Here are some screenshots illustrating the deployment process:
 ![AgroCD](https://github.com/user-attachments/assets/f57c41ae-c8f2-4ec8-a951-df483b95617b)
 *AgroCD deployment interface.*
